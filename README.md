@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-![screenshot](doc/screenshot2.png)
+![screenshot](doc/figs/WesternFire.gif)
 
 Our team develops a shiny app using tree fire data(https://catalog.data.gov/dataset/fire-caused-tree-mortality-in-western-us-national-parks-2018). The app aims at analyzing past tree fire statistics so that the concerned park governers could prevent such fire from happening. 
 
