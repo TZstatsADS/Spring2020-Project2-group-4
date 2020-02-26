@@ -6,10 +6,10 @@ The climate on earth is getting extremely volatile. The recent Australian fire h
 #### Data 
 A brief look at the data
 
-![screenshot](doc/figs/Brief Data.PNG)
+![screenshot](doc/figs/BriefData.PNG)
 
 #### Data Explanation
-![screenshot](doc/figs/ADS Project2 Data Explanation.PNG)
+![screenshot](doc/figs/DataExplanation.PNG)
 
 #### App Guide
 + Map Tab
@@ -19,8 +19,8 @@ A brief look at the data
     
 + Data Tab
   + Table
-  ![screenshot](doc/figs/Personalized report.PNG)
+  ![screenshot](doc/figs/Personalizedreport.PNG)
   + Personalized plots
-  ![screenshot](doc/figs/pie plot.PNG)
+  ![screenshot](doc/figs/pieplot.PNG)
   ![screenshot](doc/figs/pairplot.PNG)
 
