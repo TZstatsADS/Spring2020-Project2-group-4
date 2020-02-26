@@ -3,7 +3,7 @@
 ### [Project Description](doc/project2_desc.md)
 
 ![screenshot](doc/figs/WesternFire.gif)
-
+(The gif visualizes the time lapse of fire outbreaks from year 2000 to 2004. The color of dots represents the species of the burned trees, and size of dots represents the size (diameter of burned trees).)
 Our team develops a shiny app using tree fire data(https://catalog.data.gov/dataset/fire-caused-tree-mortality-in-western-us-national-parks-2018). The app aims at analyzing past tree fire statistics so that the concerned park governers could prevent such fire from happening. 
 
 ## Team members
