@@ -1,0 +1,13 @@
+name: Proj2_v2
+title: Proj2_v2
+username:
+account: morgan-yang-0710
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1865023
+bundleId: 2832512
+url: https://morgan-yang-0710.shinyapps.io/Proj2_v2/
+when: 1582753357.90465
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: server.R|ui.R

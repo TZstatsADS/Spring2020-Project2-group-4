@@ -1,0 +1,12 @@
+name: Proj2_v1
+title: Proj2_v1
+username:
+account: ads2020
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1864871
+bundleId: 2830351
+url: https://ads2020.shinyapps.io/Proj2_v1/
+when: 1582689236.24486
+asMultiple: FALSE
+asStatic: FALSE
