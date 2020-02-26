@@ -5,7 +5,7 @@ Our team develops a shiny app using tree fire data(https://catalog.data.gov/data
 
 ![screenshot](doc/figs/WesternFire.gif)
 
-The gif visualizes the time lapse of fire outbreaks from year 2000 to 2018. The color of dots represents the species of the burned trees, and size of dots represents the size (diameter of burned trees).
+The gif visualizes the time lapse of fire outbreaks from year 1995 to 2012. The color of dots represents the species of the burned trees, and size of dots represents the size (diameter of burned trees).
 
 ## Team members
 1. Bian, Xinyi xb2154@columbia.edu
