@@ -5,6 +5,7 @@ The climate on earth is getting extremely volatile. The recent Australian fire h
 
 #### Data 
 A brief look at the data
+
 ![screenshot](doc/figs/Brief Data.PNG)
 
 #### Data Explanation
@@ -13,7 +14,7 @@ A brief look at the data
 #### App Guide
 + Map Tab
   + Map-damage
-    ![screenshot](doc/figs/WesternFire.gif)
+![screenshot](doc/figs/WesternFire.gif)
   + Map-species
     
 + Data Tab
